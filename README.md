@@ -1,4 +1,4 @@
-# SaintBezier.txt
+# Moonshine Text Editor
 Building a text editor in C.
 
 ## Resources
