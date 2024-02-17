@@ -1,6 +1,6 @@
 # Moonshine, a C-based Text Editor
 Learning Objectives : 
-- Going back to basics. Diving deep into the C language and learning the fundamentals of dynamic memory allocation & management, C/C++ compilation toolchain...
+- Going back to basics. Diving deep into the C language and learning the fundamentals of stack, dynamic and static memory allocation/management, C compilation toolchain...
 - Improving Developer Skillset. Alongside Moonshine I am building up my developer environement with the objective of learning vim motions and using nvim.
 - Working with unique Data Structures and Algorithms (ex. Piece Tables). The goal is to focus on acquiring as much practical knowledge/experience, and pick up some good habits.
 
